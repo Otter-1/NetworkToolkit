@@ -59,9 +59,9 @@ The authors are not responsible for any misuse of this toolkit. Ensure you have 
 
 ## **👥 Authors**
 
-* **\[Your Name\]**  
-* **\[Friend Name 1\]**  
-* **\[Friend Name 2\]**
+* **Anouar Habib Allah**  
+* **Ilias Ramadan*  
+* **Aya Ennakhlaoui**
 
 ### **📝 Notes on Functionality**
 
