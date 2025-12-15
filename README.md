@@ -59,7 +59,7 @@ The authors are not responsible for any misuse of this toolkit. Ensure you have 
 
 ## **👥 Authors**
 
-* **Anouar Habib Allah (Me)**  
+* **Anouar Habib Allah**  
 * **Ilias Ramadan**  
 * **Aya Ennakhlaoui**
 
