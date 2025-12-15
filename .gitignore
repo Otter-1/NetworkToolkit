@@ -1,0 +1,4 @@
+pycache/ *.pyc
+venv/
+env/
+*.log *.sqlite
