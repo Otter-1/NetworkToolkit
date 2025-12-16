@@ -59,9 +59,9 @@ The authors are not responsible for any misuse of this toolkit. Ensure you have 
 
 ## **👥 Authors**
 
-* **Anouar Habib Allah**  
-* **Ilias Ramadan**  
-* **Aya Ennakhlaoui**
+* [**Anouar Habib Allah**](https://github.com/Otter-1)  
+* [**Ilias Ramadan**]()
+* [**Aya Ennakhlaoui**](https://github.com/ayaennakhlaoui-web)
 
 ### **📝 Notes on Functionality**
 
